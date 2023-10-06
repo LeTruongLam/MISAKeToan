@@ -1,0 +1,78 @@
+.sidebar {
+  height: calc(100vh - 56px);
+  background-color:#021E0D;
+  width: 200px; /* Điều chỉnh độ rộng của sidebar */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  /* Thêm các thuộc tính phù hợp để định dạng và tạo khoảng cách giữa các phần tử */
+}
+
+.sidebar-menu {
+  margin-top: 20px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 4px; /* Khoảng cách giữa các mục menu */
+}
+
+.sidebar-menu-item {
+  margin: 0 12px;
+  display: flex;
+  align-items: center;
+  height: 44px; /* Đặt chiều cao là 44px */
+  text-decoration: none;
+  color: #fff;
+}
+.sidebar-menu-item:hover,
+.sidebar-menu-item:focus {
+  background-color: rgba(167, 196, 255, 0.16);
+  border-radius: 4px;
+}
+.sidebar-menu-item .icon{
+    margin-left: 12px;
+    width: 24px;
+    height: 24px;
+}
+.icon-overview {
+  background: url(../../assets//img/Sprites.64af8f61.svg) -33px -1587px;
+
+}
+.icon-cash{
+    background: url(../../assets//img/Sprites.64af8f61.svg)  no-repeat -78px -1588px;
+
+}
+.icon-deposits{
+  background: url(../../assets//img/Sprites.64af8f61.svg) no-repeat -121px -1590px;
+
+}
+.icon-purchases{
+  background: url(../../assets//img/Sprites.64af8f61.svg) no-repeat -165px -1589px;
+}
+.icon-sales{
+    background: url(../../assets//img/Sprites.64af8f61.svg) no-repeat -206px -1588px;
+
+}
+.icon-order-management{
+  background: url(../../assets//img/Sprites.64af8f61.svg) -254px -1589px;
+
+}
+.icon-inventory{
+  background: url(../../assets//img/Sprites.64af8f61.svg)  no-repeat -294px -1589px;
+
+}
+.icon-tools{
+  background: url(../../assets//img/Sprites.64af8f61.svg) no-repeat -339px -1590px;
+
+}
+.icon-taxes{
+  background: url(../../assets//img/Sprites.64af8f61.svg) no-repeat -427px -1591px;
+
+}
+
+.sidebar-menu-item .label{
+    color: #fff;
+    margin-left: 12px;
+
+}

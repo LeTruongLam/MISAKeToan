@@ -1,0 +1,34 @@
+.dialog-content {
+  width: 30%;
+  height: max-content;
+  background-color: #fff;
+  border-radius: 4px;
+}
+.dialog-content .dialog-wrapper {
+  margin: 24px;
+}
+.dialog-notification {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 24px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid #e0e0e0;
+}
+.dialog-wrapper .buttons {
+  margin: 12px 0;
+  display: flex;
+  justify-content: space-between;
+  float: right;
+}
+.table-end-right .down-icon-black {
+  transform: rotate(180deg);
+}
+.dialog-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.dialog-title h1 {
+  margin: 0;
+}

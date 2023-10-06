@@ -1,0 +1,160 @@
+.container {
+  height: calc(100vh - 56px);
+  width: calc(100% - 200px);
+  background-color: var(--color-background);
+  position: absolute;
+  top: 56px;
+  left: 200px;
+}
+.container h1 {
+  margin-left: 24px;
+}
+.header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  margin-right: 24px;
+}
+.header-wrapper a {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
+.container-content {
+  width: calc(100% - 48px);
+  height: max-content;
+  background-color: #fff;
+  margin-left: 24px;
+}
+
+.employee-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.employee-table__header,
+.employee-table__data {
+  border: 1px solid #e0e0e0e0;
+  text-align: left;
+  padding: 0 16px;
+  width: min-content;
+  height: 48px;
+}
+.employee-table__header {
+  background-color: #f5f5f5;
+  font-weight: 700;
+}
+.employee-table tr:hover {
+  background-color: rgba(245, 245, 245, 0.4);
+}
+.edit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+}
+
+.edit a {
+  text-decoration: none;
+  margin-right: 20px;
+  color: blueviolet;
+}
+
+.header-container-content {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: 52px;
+  margin-right: 12px;
+}
+.header-container-content .search-bar input {
+  width: 200px;
+}
+.header-container-content > i {
+  margin-left: 12px;
+}
+.table-content {
+  margin: 0 16px 0 16px;
+}
+
+.table-end {
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 16px;
+}
+.table-end-right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 20px;
+}
+.table-end-right .search-bar input {
+  width: 36px;
+}
+.page-container {
+  margin-left: 16px;
+}
+.page-container a {
+  text-decoration: none;
+  margin-right: 16px;
+  padding: 5px;
+}
+.page-container a:focus {
+  border: 1px solid #ccc;
+  opacity: 56%;
+}
+.table-end .table-end-right {
+  position: relative;
+}
+
+.combobox {
+  display: none;
+  background-color: #fff;
+  width: 62px;
+  position: absolute;
+  bottom: 42px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.combobox-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+.combobox-wrapper a {
+  padding: 0 8px;
+  margin: 0;
+  text-decoration: none;
+  line-height: 36px;
+}
+.combobox-wrapper a:hover {
+  background-color: #50b83c;
+  color: #fff;
+}
+.contextmenu {
+  background-color: #fff;
+  width: max-content;
+  position: absolute;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  right: 80px;
+  display: none;
+}
+.contextmenu-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+.contextmenu-wrapper a {
+  padding: 0 8px;
+  margin: 0;
+  line-height: 36px;
+  text-align: left;
+  text-decoration: none;
+}
+.contextmenu-wrapper a:hover {
+  background-color: #50b83c;
+  color: #fff;
+}

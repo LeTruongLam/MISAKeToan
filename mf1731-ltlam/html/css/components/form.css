@@ -1,0 +1,156 @@
+.form-hide {
+  width: 100%;
+  height: 100vh;
+  display: grid;
+  place-content: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  visibility: visible;
+}
+.form-container {
+  background-color: rgba(13, 12, 12, 0.5);
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form-content {
+  /* width: 70%; */
+  /* height: 88%; */
+  background-color: #fff;
+  border-radius: 4px;
+  box-shadow: 0px 4px 16px rgba(23, 27, 42, 0.24);
+  box-sizing: border-box;
+}
+.form-content .form-wrapper {
+  margin: 24px;
+  margin-bottom: 12px;
+}
+.form-wrapper .title-form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title-form-left {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
+.title-form {
+  height: 32px;
+}
+.title-form-left h1 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.title-form-left p {
+  gap: 8px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.title-form-right {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+.title-form-right:hover {
+  cursor: pointer;
+}
+.form-content-main {
+  display: flex;
+  gap: 24px;
+  margin-top: 24px;
+}
+.employee-infor {
+  flex: 1;
+}
+.employee-infor-right {
+  flex: 1;
+}
+.input-form {
+  margin-bottom: 24px;
+}
+.input-form .search-bar {
+  margin: 0;
+  justify-content: space-between;
+}
+
+.input-form p {
+  margin: 8px 0;
+}
+.input-form p span {
+  color: red;
+}
+.input-row {
+  display: flex;
+  gap: 8px;
+}
+.employee-id {
+  width: 300px;
+}
+.employee-name {
+  width: 100%;
+}
+.input-form .search-bar input {
+  width: 100%;
+}
+.employee-infor-right .input-row {
+  gap: 12px;
+}
+.employee-infor-right .input-form .input-row p {
+  margin-top: 4px;
+}
+.radio-row {
+  display: flex;
+  align-items: center;
+  height: 36px;
+  gap: 12px;
+}
+.radio-row span {
+  display: flex;
+  align-items: center;
+}
+.radio-row input {
+  width: 20px;
+  height: 20;
+  margin: 0;
+  margin-right: 8px;
+}
+.employee-address .employee-id {
+  width: 250px;
+}
+.employee-address .input-form:last-child {
+  margin-bottom: 0;
+}
+.form-wrapper {
+  padding-bottom: 24px;
+  border-bottom: 1px solid #e0e0e0;
+}
+.form-content .buttons {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 24px;
+  margin-bottom: 12px;
+}
+.buttons .button-white {
+  margin-right: 8px;
+}
+
+.validate-form {
+  display: none;
+  padding: 8px 0;
+  position: absolute;
+  width: max-content;
+  color: red;
+}
+.validate-form:hover {
+  display: block;
+}

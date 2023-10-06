@@ -1,0 +1,58 @@
+@import url(./components/button.css);
+@import url(./components/input.css);
+@import url(./components/dialog.css);
+@import url(./components/checkbox.css);
+@import url(./components/popup.css);
+@import url(./components/form.css);
+@import url(./components/icon.css);
+@import url(./layout/container.css);
+@import url(./layout/header.css);
+@import url(./layout/sidebar.css);
+*{
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    color: var(--color-primary-text);
+}
+body{
+    margin: 0;
+}
+:root{
+    --color-title:#000;
+    --color-primary-text: #212121;
+    --color-secondary-text:#666666;
+    --color-disable: #9E9E9E9E;
+    --color-boder: #E0E0E0E0;
+    --color-background: #F7F7F7F7;
+}
+.text-boil{
+    font-weight: bold;
+}
+h1{
+    font-size: 20px;
+    line-height: 26px;
+    font-weight: 700;
+}
+h2{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+}
+h3{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+}
+.text-center {
+    text-align: center;
+}
+tr th:first-child{
+    width: 24px;
+    height: 24px;
+}
+.form-hide{
+    display: none;
+    position: absolute;
+    z-index: 100000;
+    height: 100vh;
+    width: 100%;
+}

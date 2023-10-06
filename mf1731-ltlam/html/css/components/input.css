@@ -1,0 +1,23 @@
+ input {
+  height: 36px;
+  font-size: 14px;
+  padding: 0 0 0 12px;
+  border: none;
+  width: 290px;
+}
+
+input:focus {
+  outline: none;
+  
+}
+
+
+input[type='checkbox']:checked{
+  accent-color:  green;
+}
+
+input[type="radio"] {
+  accent-color:  green;
+
+
+}

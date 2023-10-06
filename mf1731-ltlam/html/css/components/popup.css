@@ -1,0 +1,35 @@
+.popup-container{
+    min-width: 450px;
+    max-width: 650px;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0px 4px 16px rgba(23, 27, 42, 0.24);
+    box-sizing: border-box;
+    position: absolute;
+    top:40px;
+    right:40px;
+    float:right;
+    z-index: -100000000;
+    
+
+}
+.popup-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 12px 0;
+    height: 24px;
+}
+.popup-content .popup-left{
+    display: flex;
+    margin-left: 16px;
+}
+.popup-left .success-icon{
+    margin-right: 8px;
+}
+.popup-left   p{
+    color: green;
+}
+.popup-right{
+    margin-right: 12px;
+}
