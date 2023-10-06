@@ -1,0 +1,68 @@
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\appsettings.json
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\MISA.WebFresher072023.Demo.exe
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\MISA.WebFresher072023.Demo.deps.json
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\MISA.WebFresher072023.Demo.runtimeconfig.json
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\MISA.WebFresher072023.Demo.dll
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\MISA.WebFresher072023.Demo.pdb
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.AssemblyInfo.cs
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\staticwebassets\msbuild.MISA.WebFresher072023.Demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\staticwebassets\msbuild.build.MISA.WebFresher072023.Demo.props
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MISA.WebFresher072023.Demo.props
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MISA.WebFresher072023.Demo.props
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\scopedcss\bundle\MISA.WebFresher072023.Demo.styles.css
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.csproj.CopyComplete
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.dll
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\refint\MISA.WebFresher072023.Demo.dll
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.pdb
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.genruntimeconfig.cache
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\ref\MISA.WebFresher072023.Demo.dll
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\Dapper.dll
+C:\Users\Acer\Documents\Misa\tuan 1\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\appsettings.json
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\MISA.WebFresher072023.Demo.exe
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\MISA.WebFresher072023.Demo.deps.json
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\MISA.WebFresher072023.Demo.runtimeconfig.json
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\MISA.WebFresher072023.Demo.dll
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\MISA.WebFresher072023.Demo.pdb
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\Dapper.dll
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.AssemblyInfo.cs
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\staticwebassets\msbuild.MISA.WebFresher072023.Demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\staticwebassets\msbuild.build.MISA.WebFresher072023.Demo.props
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MISA.WebFresher072023.Demo.props
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MISA.WebFresher072023.Demo.props
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\scopedcss\bundle\MISA.WebFresher072023.Demo.styles.css
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.csproj.CopyComplete
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.dll
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\refint\MISA.WebFresher072023.Demo.dll
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.pdb
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\MISA.WebFresher072023.Demo.genruntimeconfig.cache
+C:\Users\Acer\Documents\Misa\MISAWeb\web202307\mf1731-ltlam\aspnetcore\MISA.WebFresher072023.Demo\MISA.WebFresher072023.Demo\obj\Debug\net6.0\ref\MISA.WebFresher072023.Demo.dll
